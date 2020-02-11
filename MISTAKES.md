@@ -2,4 +2,4 @@
 
 Should in fact say:
 
-"Once this is done, you can write a message in "a" window labeled..."
+"Once this is done, you can write a message in "the" window labeled..."
